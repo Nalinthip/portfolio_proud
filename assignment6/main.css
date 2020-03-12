@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(209, 234, 241);
+    color: rgb(56, 5, 104);
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;  
+ }
+ .BG01{
+    background-color :rgb(236, 207, 234);
+    text-align: center; 
+    padding-bottom: 100px;
+    margin-top: 50px;
+}
+h1{
+    color: rgb(56, 5, 104);
+    font-size: 80px;
+    font-weight:bold;
+}
